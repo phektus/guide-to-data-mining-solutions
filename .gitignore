@@ -1,0 +1,9 @@
+.zsh_history
+.idea
+*.pyc
+.DS_Store
+gae/static/compiled/
+chromedriver.log
+.venv
+mockups/*.png
+*~
